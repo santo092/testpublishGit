@@ -1,0 +1,1 @@
+﻿define({r:0.5,st:'Stem',n:1,t:[0],m:[0],u:['../Content/A-Introduction-Topics/Getting-Started.htm'],s:['`cc'],p:[['`ccumsan',1]]});

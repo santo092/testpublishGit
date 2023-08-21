@@ -1,0 +1,1 @@
+﻿define({"../Content/A-Introduction-Topics/Getting-Started.htm":1,"../Content/Test5.htm":0,"../MicroContent/Resources/MicroContent/Authors/what-is-micro-content.htm#tell-me-about-micro-content":3,"../MicroContent/Resources/MicroContent/Authors/what-is-micro-content.htm#what-is-micro-content":2,});
