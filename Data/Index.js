@@ -1,1 +1,1 @@
-﻿define({numchunks:1,prefix:'Index_Chunk',terms:[{t:'Conditions',c:0,$:1},{t:'Variable',c:0,$:1}]});
+﻿define({numchunks:1,prefix:'Index_Chunk',terms:[]});
